@@ -19,6 +19,7 @@ add_tests(
     completes_synchronously
     concepts
     continue_on
+    entail_continue_on
     env
     forwarding_query
     freestanding_sync_wait
