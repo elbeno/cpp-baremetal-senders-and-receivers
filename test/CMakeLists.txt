@@ -30,6 +30,7 @@ add_tests(
     hosted_sync_wait
     incite_on
     into_variant
+    jeff
     just
     just_error
     just_error_result_of
